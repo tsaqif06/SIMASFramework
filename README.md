@@ -12,7 +12,7 @@
   <h3 align="center">SIMAS Framework</h3>
 
   <p align="center">
-    An PHP Framework to help you develope website easier!
+    A PHP framework to help you develop websites more easily
     <br />
     <br />
     <br />
