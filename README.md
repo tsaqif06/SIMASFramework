@@ -61,12 +61,9 @@ _This project was developed as a technical research project to explore software 
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow these steps to set up the project locally.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 
 - ```php 8.1``` or newer
 - ```composer```
