@@ -54,7 +54,7 @@ Here's why:
 <br>
 
 **_DISCLAIMER_**
-_This framework was developed and stabilized during my time at PT Tiga Pilar Garuda. It is currently in a stable state and serves as a foundational architecture for internal projects._
+_This project was developed by me as part of a technical assignment/collaboration with PT Tiga Pilar Garuda. It contains only structural framework code and no proprietary business logic or confidential data._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
