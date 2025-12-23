@@ -43,18 +43,17 @@
 
 ## About The Project
 
-An php framework to help you develope website more easier, and this framework was created for several purposes
+A PHP-based MVC framework designed to streamline web development and ensure architectural consistency. This project provides a solid foundation for building scalable applications by implementing core backend mechanics from the ground up.
 
-Here's why:
-
-- Developed to streamline web development processes and ensure code consistency
-- Built with Native PHP to ensure long-term maintainability and minimal dependencies
-- Successfully implemented as a core structure for several internal web projects at PT Tiga Pilar Garuda
+**Key Objectives:**
+- **Efficiency:** Developed to optimize web development processes and maintain consistent code standards.
+- **Maintainability:** Built with a Native PHP core to ensure long-term stability and deep architectural control.
+- **Scalability:** Designed as a foundational structure to support modular development for various web-based solutions.
 
 <br>
 
 **_DISCLAIMER_**
-_This project was developed by me as part of a technical assignment/collaboration with PT Tiga Pilar Garuda. It contains only structural framework code and no proprietary business logic or confidential data._
+_This project was developed as a technical research project to explore software architecture. It contains only structural framework code and architectural patterns; no proprietary business logic or confidential data from any third party is included._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
