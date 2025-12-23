@@ -12,7 +12,7 @@
   <h3 align="center">SIMAS Framework</h3>
 
   <p align="center">
-    A PHP framework to help you develop websites more easily
+    A PHP-based MVC framework designed to streamline web development and ensure architectural consistency
     <br />
     <br />
     <br />
@@ -43,7 +43,7 @@
 
 ## About The Project
 
-A PHP-based MVC framework designed to streamline web development and ensure architectural consistency. This project provides a solid foundation for building scalable applications by implementing core backend mechanics from the ground up.
+This project provides a solid foundation for building scalable applications by implementing core backend mechanics from the ground up.
 
 **Key Objectives:**
 - **Efficiency:** Developed to optimize web development processes and maintain consistent code standards.
