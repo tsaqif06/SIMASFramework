@@ -47,9 +47,9 @@ An php framework to help you develope website more easier, and this framework wa
 
 Here's why:
 
-- To help user developing website more easier
-- So that this framework can last a long time, because it uses native PHP
-- Used by employees of PT. Tiga Pilar Garuda
+- Developed to streamline web development processes and ensure code consistency
+- Built with Native PHP to ensure long-term maintainability and minimal dependencies
+- Successfully implemented as a core structure for several internal web projects at PT Tiga Pilar Garuda
 
 <br>
 
