@@ -49,7 +49,7 @@ Here's why:
 
 - To help user developing website more easier
 - So that this framework can last a long time, because it uses native PHP
-- Used by employees of PT. 3 Pilar Garuda
+- Used by employees of PT. Tiga Pilar Garuda
 
 <br>
 
