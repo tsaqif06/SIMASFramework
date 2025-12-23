@@ -54,7 +54,7 @@ Here's why:
 <br>
 
 **_DISCLAIMER_**
-_This framework is still under development, so if there are bugs or more desired features, please just fill in the issues in this GitHub repository. This framework will continue to be updated in line with the progress of the times_
+_This framework was developed and stabilized during my time at PT Tiga Pilar Garuda. It is currently in a stable state and serves as a foundational architecture for internal projects._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
